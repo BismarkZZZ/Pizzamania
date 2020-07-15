@@ -1,0 +1,29 @@
+.nav-home {
+    background-color: #a94442;
+    border: none;
+    border-radius: 0px;
+    margin-bottom: 0px;
+}
+
+.done {
+    background-color: #a94442;
+    padding: 1.5rem 0rem;
+    color: #fff
+}
+
+.nav-home .navbar-nav > li > a {
+    color: #fff;
+}
+
+.nav-home .navbar-brand {
+    color: #fff;
+}
+
+.about-pizza, .pizza-types {
+    margin-top: 3rem;
+    margin-bottom: 3rem;
+}
+
+#carous {
+    height: 500px;
+}
